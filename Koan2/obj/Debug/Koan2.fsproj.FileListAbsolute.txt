@@ -1,0 +1,8 @@
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\bin\Debug\Koan2.exe.config
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\bin\Debug\Koan2.XML
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\bin\Debug\Koan2.exe
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\bin\Debug\Koan2.pdb
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\bin\Debug\FSharp.Core.dll
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\bin\Debug\FSharp.Core.xml
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\obj\Debug\Koan2.exe
+C:\Users\Alexa_000\documents\visual studio 2013\Projects\Koan2\Koan2\obj\Debug\Koan2.pdb
