@@ -1,34 +1,4 @@
-﻿// Learn more about F# at http://fsharp.net
-// See the 'F# Tutorial' project for more help.
 
-(*
-
-Module 2 - Koan
-
-As per the previous module your task for this assignment is to solve the following Koan. Once again the idea of the Koan is not just to get the application running but to really think about why the issues occurred and to ensure you understand the problems
-
-let dosomethingrandom x =
-    if x == 0 then Console.WriteLine(1)
-    else dosomethingrandom (x - 1) * x
-Get the above code to compile and return an integer in F# Interactive.
-
-The rules for the process are:
-
-If x is equal to 0 then return 1
-Else multiply the result of dosomethingrandom with a parameter of x - 1 by x.
-Module 2 - Problem
-
-In this problem we are going to create a simple console application that reads in the name and age of a person. We need to input multiple peoples details which we specify at the start of the application. We then output each persons name and age as well as a field which is determined by the following rules:
-
-If age >= 20 then the field is a string which states the person's name and that they are no longer a teenager
-If the age < 20 and greater than 13 then the field is a string that states the persons name and that they are a teenage
-If the age is < than 13 then is states the name and the person is a kid or child.
-As part of this exercise your application must handle erroneous input.
-
-To complete this assignment please complete the Q and A and peer review.
-
-
-*)
 open System
 
 [<EntryPoint>]
